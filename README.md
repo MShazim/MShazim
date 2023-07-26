@@ -43,7 +43,7 @@
   <a href="https://www.twitter.com/Shazimbd" target="_blank" rel="noreferrer"><img width="45px" height="45px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.behance.com/shazimaslam" target="_blank" rel="noreferrer"><img width="45px" height="45px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/mshazim" target="_blank" rel="noreferrer"><img width="45px" height="45px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.buymeacoffee.com/mshazim"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <a href="https://www.buymeacoffee.com/mshazim"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
 </p>
 
  
