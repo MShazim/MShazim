@@ -28,7 +28,7 @@
 
 ## 💡 Skills
 
-### ⚡ Tech Stack
+### ⚡Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,html,css,bootstrap,js,react,nextjs,nodejs,express,jquery,mongodb,mysql,postgres)](https://skillicons.dev)
 
