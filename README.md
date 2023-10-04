@@ -15,7 +15,7 @@
 
 **From Lines of Code to Personal Interests:**
 
-- 🌱  Currently, I'm on an exciting learning journey with React.
+- 🌱  Currently, I'm on an exciting learning journey with Flutter.
 - 🧠  Unbounded Passion for Coding and Tech, Eager to Expand Skills in Diverse Tech Domains.
 - 🎮  Passionate Gaming Enthusiast, Thriving in Virtual Worlds and Embracing Challenging Gameplay.
 - 📫  How to reach me: [aslamshazim20@gmail.com](mailto:aslamshazim20@gmail.com)
