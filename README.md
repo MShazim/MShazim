@@ -30,10 +30,10 @@
 
 ### ⚡Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java,html,css,bootstrap,js,react,nodejs,express,jquery,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,py,cs,java,html,css,bootstrap,js,react,nodejs,jquery,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,materialui,tailwind,figma,ai,ps,xd,linux,postman,visualstudio,vscode,eclipse,azure,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,materialui,tailwind,figma,ai,ps,xd,linux,postman,visualstudio,vscode,androidstudio,eclipse,azure,babel)](https://skillicons.dev)
 
 
 ## 🌐 Socials
