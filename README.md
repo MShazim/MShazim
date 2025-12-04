@@ -3,37 +3,74 @@
 </p>
 
 
-## 💬 About Me!
+## 🧑🏻‍💻 About Me
 
-**Welcome to my GitHub profile!** 👨🏻‍💻
+I'm a Software Engineer specializing in **.NET MVC, SQL Server, Enterprise reporting systems, Backend development, and cross-platform mobile applications**.
+I’ve worked on large-scale portals such as **Pivotal's Rhythm** and multiple **Reconext systems**, building reporting modules, APIs, workflows, and dashboards.
 
-<div align="justify">
-  I'm a passionate 3rd-year Software Engineering undergrad and Front-end Developer From Pakistan 🌍. My journey in the tech world started with building a strong foundation in Web Development, and I'm constantly exploring and mastering new front-end technologies. I thrive on challenges and love to dive deeper into this dynamic industry to gain practical experience💡. Collaborating with experienced professionals excites me, and I can't wait to contribute to impactful projects that make a difference. Besides coding, I'm also a skilled UI/UX designer 🎨.I have a great understanding of the laws governing design, enabling me to craft user-friendly and visually appealing experiences.As I continue to expand my skillset and passion for creativity 🚀, I'm thrilled to share my projects and progress with the amazing GitHub community. <img align="right" alt="GIF"         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNkaDVzeHh3YWo5c3FlMXlhbHkyczVvb3JhdnJqM3RjN2dhaXkxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" />Let's connect, collaborate, and make a mark in the tech world together! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities. Happy coding! 😊
-</div>
+I also have experience delivering production-grade mobile apps using **Flutter**, integrating **REST APIs, Firebase**, and clean architecture.
 
-<br />
+I enjoy solving real-world engineering problems, improving system performance, and building reliable, scalable solutions.
+Currently exploring **Azure, Power Platform, and modern frontend stacks (React, Next.js)**.
 
-**From Lines of Code to Personal Interests:**
+<!-- Gif -->
+<!-- <img align="right" alt="GIF"         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNkaDVzeHh3YWo5c3FlMXlhbHkyczVvb3JhdnJqM3RjN2dhaXkxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" /> -->
 
-- 🌱  Currently, I'm on an exciting learning journey with Flutter.
-- 🧠  Unbounded Passion for Coding and Tech, Eager to Expand Skills in Diverse Tech Domains.
-- 🎮  Passionate Gaming Enthusiast, Thriving in Virtual Worlds and Embracing Challenging Gameplay.
-- 📫  How to reach me: [aslamshazim20@gmail.com](mailto:aslamshazim20@gmail.com)
-- ⚡  Fun fact: I'm a self-proclaimed foodie, and I never miss a chance to try out new cuisines and exotic dishes. Exploring the world through food is my idea of a perfect adventure! 🍔🍣
+
+## 🏢 Professional Experience
+
+### 💼 Junior Software Engineer — *WinIT Solutions Pvt Ltd*
+**Jan 2025 – Present | Karachi, Pakistan**  
+- Working on enterprise reporting portals using **.NET MVC**, **SQL Server**, **SSIS**, **SSRS**, and **legacy ASP.NET**.  
+- Developed reporting modules, backend logic, workflows, and optimization for **Pivotal’s Rhythm** portal.  
+- Built and improved enterprise dashboards including **Rhythm-TV**, focusing on performance and usability.  
+- Implemented SSRS reports (parameterized, drill-down, subscription-based) across Pivotal & Reconext systems.
+
+
+
+### 💼 Fullstack Developer I — *Axon Solutions*
+**Nov 2023 – Dec 2024 | Karachi, Pakistan**  
+- Developed production-ready Flutter apps including **Hairsol** and **ALRS/Atlas Reservations**.  
+- Architected and developed **.NET Core backend APIs**, incorporating role-based authentication and operational booking workflows.  
+- Worked with **Firebase** for notifications, real-time updates, and user authentication.  
+- Delivered clean UI/UX using Flutter widgets, reusable components, and scalable mobile architecture.
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live / Repo |
+|--------|-------------|-------------|-------------|
+| **🖥️ Rhythm Portal & Rhythm-TV** | Contributed to the core **Rhythm portal** (Pivotal’s) by building & maintaining modules for reporting, job scheduling, data serialization, and form-based workflows. Also independently developed **Rhythm-TV**, a lightweight reporting dashboard that improved accessibility, usability, and performance across operational teams. | [![Tech](https://skillicons.dev/icons?i=dotnet,cs,mysql,html,css,js,bootstrap,jquery&perline=3)](https://skillicons.dev) | 🔗 *Private (Enterprise Project)* |
+| **📊 Reconext Portals (Plus-RS, Plus Tools, Partners EP, Octel, Octance)** | Developed and maintained **SSRS reports** and custom reporting interfaces across multiple Reconext enterprise portals. Work included drill-down, parameterized, and subscription-based reports, along with optimized SQL queries and reporting pages to ensure reliable, accurate business data across internal and client-facing systems. | [![Tech](https://skillicons.dev/icons?i=dotnet,cs,mysql,html,css,js,bootstrap,jquery&perline=3)](https://skillicons.dev) | 🔗 *Private (Enterprise Project)* |
+| **📱 Hairsol – Salon Management App** | A production-grade Flutter app with appointment scheduling, staff coordination, service/product handling, and Firebase push notifications. Backend APIs built in .NET Core ensured secure authentication, booking workflows, and payment logic. | [![Tech](https://skillicons.dev/icons?i=flutter,dart,firebase,dotnet,mysql&perline=3)](https://skillicons.dev) | 🌐 [Play Store](https://play.google.com/store/apps/details?id=com.enitan.hairsol_mobileapp&hl=en) |
+| **🏨 ALRS / Atlas Reservations** | A dual-role Flutter app supporting hotel room bookings and staff operations. Includes booking history, issue tracking, real-time status updates, and secure authentication backed by .NET Core APIs and role-based views. | [![Tech](https://skillicons.dev/icons?i=flutter,dart,firebase,dotnet,mysql&perline=3)](https://skillicons.dev) | 🌐 [App Store](https://apps.apple.com/us/app/alrs/id1123137166) |
+| **🤖 HIREXCEL – AI Recruitment Platform** | AI-based recruitment system built using Python & Django, integrating cognitive, personality, and technical assessments. Features automated scoring pipelines, candidate evaluation logic, report generation, and a scalable backend integrated via OpenAPI. | [![Tech](https://skillicons.dev/icons?i=python,django,sqlite&perline=3)](https://skillicons.dev) | 🗂️ [Repo](https://github.com/MShazim/hirexcel-project) |
+
+
+
+## 🌟 Personal Interests
+
+- 📘 Currently expanding my expertise in **.NET backend development, SQL Server, cloud technologies (Azure), and modern full-stack development practices**.  
+- 💡 Strong passion for **software engineering, problem-solving, and learning new technologies** across full-stack and cloud domains.  
+- 🎮 Enjoy gaming as a way to relax, stay competitive, and improve strategic thinking.  
+- 🍽️ Food lover who enjoys exploring new cuisines and trying out interesting dishes.  
+- 📫 Always open to collaboration and discussions — reach me at: **aslamshazim20@gmail.com**
+
 
 <div align="right">
   <a href="https://www.github.com/MShazim" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MShazim?logo=github&style=for-the-badge&color=89e051&labelColor=181824" /></a>
-  <a href="https://www.github.com/MShazim" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=MShazim&style=for-the-badge&color=69ad3e&labelColor=181824" /></a>
+  <a href="https://www.github.com/MShazim" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=MShazim&style=for-the-badge&color=89e051&labelColor=181824" /></a>
 </div>
+
 
 ## 💡 Skills
 
-### ⚡Tech Stack
+### ⚡ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,firebase,py,django,html,css,bootstrap,js,ts,jquery,react,next,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,py,cs,java,html,css,bootstrap,js,react,nodejs,jquery,mongodb,mysql,postgres)](https://skillicons.dev)
 
-### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,materialui,tailwind,figma,ai,ps,xd,linux,postman,visualstudio,vscode,androidstudio,eclipse,azure,babel)](https://skillicons.dev)
+### 🛠️ Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,materialui,tailwind,visualstudio,vscode,figma,androidstudio,docker,vercel,azure,linux,npm)](https://skillicons.dev)
+
 
 
 ## 🌐 Socials
