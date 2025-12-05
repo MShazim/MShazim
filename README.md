@@ -83,7 +83,7 @@ Currently exploring **Azure, Power Platform, and modern frontend stacks (React, 
   <a href="https://www.buymeacoffee.com/mshazim"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
 </p>
 
- 
+<!-- 
 ## 📈 My GitHub Stats
     
 <a href="http://www.github.com/MShazim" align="left"><img align="left" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MShazim&theme=chartreuse_dark" alt="MShazim's GitHub stats" /></a>
@@ -91,5 +91,5 @@ Currently exploring **Azure, Power Platform, and modern frontend stacks (React, 
 <a href="http://www.github.com/MShazim" align="center"><img width="85%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MShazim&theme=chartreuse_dark" alt="GitHub Commits Graph" /></a>
 <a href="http://www.github.com/MShazim" align="left"><img align="left" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MShazim&theme=chartreuse_dark" alt="Top Languages by Commit" /></a>
 <a href="http://www.github.com/MShazim" align="right"><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MShazim&theme=chartreuse_dark&hide_border=true" alt="MShazim's GitHub Streaks"/></a>
-
+-->
 
