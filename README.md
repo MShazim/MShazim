@@ -19,7 +19,7 @@ Currently exploring **Azure, Power Platform, and modern frontend stacks (React, 
 
 ## 🏢 Professional Experience
 
-### 💼 Junior Software Engineer — *WinIT Solutions Pvt Ltd*
+### 💼 Software Engineer — *WinIT Solutions Pvt Ltd*
 **Jan 2025 – Jan 2026 | Karachi, Pakistan**  
 - Worked on enterprise reporting portals using **.NET MVC**, **SQL Server**, **SSIS**, **SSRS**, and **legacy ASP.NET**.  
 - Developed reporting modules, backend logic, workflows, and optimization for **Pivotal’s Rhythm** portal.  
